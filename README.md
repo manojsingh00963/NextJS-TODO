@@ -1,4 +1,4 @@
-# Next.js Application
+# Next.js Todo Application
 
 A modern web application built with Next.js, TypeScript, and Tailwind CSS.
 
